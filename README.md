@@ -36,6 +36,6 @@ The dataset contains various metrics related to online retail transactions. Belo
 
 ## 📁 File Descriptions
 
-- **📓 Retail_Customer_Segmentation_Recommendation_System.ipynb:** Jupyter notebook containing code for data exploration, visualization, modeling, and evaluation.
-- **📁 Online_Retail.csv:** CSV file containing the online retail dataset.
+- **📓 Online-Retail-Segmentation.ipynb** Jupyter notebook containing code for data exploration, visualization, modeling, and evaluation.
+- **📁 Online_Retail.xlsx:** CSV file containing the online retail dataset.(Source: https://archive.ics.uci.edu/dataset/352/online+retail )
 - **📘 README.md:** This file, offering an overview of the project.
