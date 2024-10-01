@@ -17,7 +17,6 @@ The specific objectives of this project include:
 3. **Data Preprocessing:** Apply feature scaling and dimensionality reduction to streamline the data, enhancing the efficiency and accuracy of the clustering process.
 4. **Customer Segmentation with K-Means Clustering:** Segment customers into distinct groups using K-means clustering, enabling targeted and personalized marketing strategies.
 5. **Cluster Analysis & Evaluation:** Analyze and profile each customer segment to devise targeted marketing strategies and evaluate the quality of the clusters.
-6. **Recommendation System:** Build a system that recommends best-selling products to customers within the same cluster who have not yet purchased them, aiming to boost sales and improve marketing effectiveness.
 
 ## 📚 Dataset Description
 
