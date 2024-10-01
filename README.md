@@ -2,7 +2,7 @@
 
 # 🌐 Project Overview
 
-This repository is dedicated to a comprehensive project that explores the dynamic landscape of online retail, centered around a dataset from a UK-based retailer available through the UCI Machine Learning Repository. The dataset captures all transactions made between 2010 and 2011, offering a robust foundation for developing advanced customer segmentation and recommendation systems aimed at refining marketing strategies and driving sales growth.
+This repository is dedicated to a comprehensive project that explores the dynamic landscape of online retail, centered around a dataset from a UK-based retailer available through the UCI Machine Learning Repository. The dataset captures all transactions made between 2010 and 2011, offering a robust foundation for developing advanced customer segmentation aimed at refining marketing strategies and driving sales growth.
 
 ## 🌟 Problem Statement
 
